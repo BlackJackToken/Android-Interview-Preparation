@@ -18,9 +18,6 @@
         * [伸展树](https://github.com/bboylin/MyNotebook/blob/master/part4/splay.md)
         * [AVL](https://github.com/bboylin/MyNotebook/blob/master/part4/avl.md)
         * B树
-        * treap树
-        * k-d树
-        * van Emde Boas 树
     * 图
         * 基本的图算法
             * 深度/广度优先搜索
@@ -52,16 +49,32 @@
     * 多项式与快速傅里叶变换
     * 数论算法
     * 字符串匹配
-    * 计算几何
 
 * android
     * android基础总结
-    * handler消息机制
+    * 四大组件和AIDL
+    * Http网络请求
+        * 原理
+        * 设计与实现
     * 内存泄漏分析
-    * [recyclerview和listview比较](https://github.com/bboylin/MyNotebook/blob/master/android%26designPattern/20160713/readme.md)
+    * sqlite
+    * 性能优化
+    * 代码规范
+    * 单元测试
+    * 重构
+    * IPC机制
     * Activity和fragment
-    * AsyncTask源码分析
-    * 自定义View
+    * 多线程
+        * 消息机制（handler，looper，messageQueue）
+        * 多线程和线程池
+        * 同步集合
+        * 同步锁
+        * AsyncTask源码分析
+    * view和动画
+        * 自定义控件
+        * [recyclerview和listview比较](https://github.com/bboylin/MyNotebook/blob/master/android%26designPattern/20160713/readme.md)
+        * scroller
+        * 动画
     * surfaceView
     * bitmap
     * 热修复
@@ -140,10 +153,14 @@
 * android项目实战
     * [西交Link](http://xjtu.link/)
     * Gank客户端
-    * IEEE 2017客户端
+    * bilibili客户端
+
+* 面试/笔试
 
 * 读书笔记
     * thinking in java
+        * [chapter1-13](https://github.com/bboylin/MyNotebook/blob/master/part3/java/notes%20of%20thinking%20in%20java1.md)
+    * effective java
     * android开发进阶：从小工到专家
     * android开发艺术探索
     * 设计模式之禅
@@ -151,6 +168,7 @@
     * [CSAPP](https://github.com/bboylin/MyNotebook/blob/master/part6/csapp.md)
     * 算法导论
     * 深入理解java虚拟机
+    * [程序员的自我修养：链接，装载和库](https://github.com/bboylin/MyNotebook/blob/master/part6/xiuyang.md)
 
 * operating system
     * [死锁/信号量/管程](https://github.com/bboylin/MyNotebook/blob/master/part6/lock.md)
