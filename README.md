@@ -104,7 +104,7 @@
         * JVM基础知识
         * JVM类加载机制
         * Java内存区域与内存溢出
-        * 垃圾回收算法
+        * [垃圾回收算法](https://github.com/bboylin/MyNotebook/blob/master/part3/gc/readme.md)
 
     * JavaConcurrent(Java并发)
         * Java并发基础知识
