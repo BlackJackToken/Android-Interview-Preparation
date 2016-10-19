@@ -160,6 +160,7 @@
 * 读书笔记
     * thinking in java
         * [chapter1-13](https://github.com/bboylin/MyNotebook/blob/master/part3/java/notes%20of%20thinking%20in%20java1.md)
+        * [chapter14-21](https://github.com/bboylin/MyNotebook/blob/master/part3/java/notes%20of%20thinking%20in%20java2.md)
     * effective java
     * android开发进阶：从小工到专家
     * android开发艺术探索
