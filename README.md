@@ -125,12 +125,12 @@
 * 设计模式
 
   * [面向对象六大原则](https://github.com/bboylin/MyNotebook/blob/master/android%26designPattern/20160708/designPrinciple.md)
-  * 单例模式
+  * [单例模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/Singleton.md)
   * Builder模式
   * 原型模式
   * 简单工厂
   * [工厂方法模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/FactoryMethodPattern.md)
-  * 抽象工厂模式
+  * [抽象工厂模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/abstractFactory.md)
   * [策略模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/StrategyPattern.md)
   * 状态模式
   * 责任链模式
