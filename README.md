@@ -166,6 +166,7 @@
         * [chapter2](https://github.com/bboylin/MyNoteBook/tree/master/part3/java/effective-java1.md)
     * android开发进阶：从小工到专家
     * android开发艺术探索
+        * [第一章：activity的生命周期和启动模式](https://github.com/bboylin/MyNoteBook/tree/master/android&designPattern/art/ch1.md)
     * 设计模式之禅
     * android源码设计模式解析与实战
     * [CSAPP](https://github.com/bboylin/MyNotebook/blob/master/part6/csapp.md)
