@@ -163,7 +163,8 @@
         * [chapter14-15](https://github.com/bboylin/MyNotebook/blob/master/part3/java/notes%20of%20thinking%20in%20java2.md)
         * [chapter16-21](https://github.com/bboylin/MyNotebook/blob/master/part3/java/java3.md)
     * effective java
-        * [chapter2](https://github.com/bboylin/MyNoteBook/tree/master/part3/java/effective-java1.md)
+        * [chapter 2](https://github.com/bboylin/MyNoteBook/tree/master/part3/java/effective-java2.md)
+        * [chapter 3](https://github.com/bboylin/MyNoteBook/tree/master/part3/java/effective-java3.md)
     * android开发进阶：从小工到专家
     * android开发艺术探索
         * [第一章：activity的生命周期和启动模式](https://github.com/bboylin/MyNoteBook/tree/master/android&designPattern/art/ch1.md)
