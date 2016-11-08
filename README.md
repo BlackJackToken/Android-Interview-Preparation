@@ -78,7 +78,7 @@
     * surfaceView
     * bitmap
     * 热修复
-    * eventbus
+    * [初探event bus和RxBus](https://github.com/bboylin/MyNoteBook/tree/master/android&designPattern/20161108/bus.md)
     * orm
     * RxJava & RxAndroid
     * Picasso和glide
