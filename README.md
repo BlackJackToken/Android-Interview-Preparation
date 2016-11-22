@@ -3,8 +3,6 @@
 
 感觉时间过得很快，转眼就大三了。为了找到一份好实习，我需要制定一份全面的学习计划并且严格执行。这个repository就是我的学习计划，欢迎star和fork，欢迎补充。每个知识点准备好后一般都会发在我的笔记本上：[https://github.com/bboylin/MyNotebook](https://github.com/bboylin/MyNotebook)
 
-倒计时Link  :  [http://bboylin.com/time/](http://bboylin.com/time/)
-
 * datastructure & algorithm
     * [排序](https://github.com/bboylin/MyNotebook/blob/master/part4/sort.md)
     * 基本数据结构：
