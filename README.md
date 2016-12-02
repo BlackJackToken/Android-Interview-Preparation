@@ -79,7 +79,7 @@
     * [初探event bus和RxBus](https://github.com/bboylin/MyNoteBook/tree/master/android&designPattern/20161108/bus.md)
     * orm
     * RxJava & RxAndroid
-    * Picasso和glide
+    * [Picasso源码分析](https://github.com/bboylin/MyNotebook/blob/master/android%26designPattern/20161202/picasso.md)
     * MVP/MVVM架构开发app
     * kotlin
 
