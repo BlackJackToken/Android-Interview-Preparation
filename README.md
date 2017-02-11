@@ -70,16 +70,16 @@
         * AsyncTask源码分析
     * view和动画
         * 自定义控件
-        * [recyclerview和listview比较](https://github.com/bboylin/MyNotebook/blob/master/android%26designPattern/20160713/readme.md)
+        * [recyclerview和listview比较](https://github.com/bboylin/MyNotebook/blob/master/part1/RecyclerView%E5%92%8Clistview%E7%9A%84%E5%8C%BA%E5%88%AB.md)
         * scroller
         * 动画
     * surfaceView
     * bitmap
     * 热修复
-    * [初探event bus和RxBus](https://github.com/bboylin/MyNoteBook/tree/master/android&designPattern/20161108/bus.md)
+    * [初探event bus和RxBus](https://github.com/bboylin/MyNotebook/blob/master/part1/%E5%88%9D%E6%8E%A2event%20bus%E5%92%8CRxBus.md)
     * orm
     * RxJava & RxAndroid
-    * [Picasso源码分析](https://github.com/bboylin/MyNotebook/blob/master/android%26designPattern/20161202/picasso.md)
+    * [Picasso源码分析](https://github.com/bboylin/MyNotebook/blob/master/part1/picasso%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
     * MVP/MVVM架构开发app
     * kotlin
 
@@ -102,7 +102,7 @@
         * JVM基础知识
         * JVM类加载机制
         * Java内存区域与内存溢出
-        * [垃圾回收算法](https://github.com/bboylin/MyNotebook/blob/master/part3/gc/readme.md)
+        * [垃圾回收算法](https://github.com/bboylin/MyNotebook/blob/master/part3/gc/java%E4%B8%AD%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md)
 
     * JavaConcurrent(Java并发)
         * Java并发基础知识
@@ -122,14 +122,14 @@
 
 * 设计模式
 
-  * [面向对象六大原则](https://github.com/bboylin/MyNotebook/blob/master/android%26designPattern/20160708/designPrinciple.md)
-  * [单例模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/Singleton.md)
+  * [设计模式六大原则](https://github.com/bboylin/MyNotebook/blob/master/part2/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.md)
+  * [单例模式](https://github.com/bboylin/MyNotebook/blob/master/part2/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
   * Builder模式
   * 原型模式
   * 简单工厂
-  * [工厂方法模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/FactoryMethodPattern.md)
-  * [抽象工厂模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/abstractFactory.md)
-  * [策略模式](https://github.com/bboylin/MyNoteBook/blob/master/android%26designPattern/StrategyPattern.md)
+  * [工厂方法模式](https://github.com/bboylin/MyNotebook/blob/master/part2/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)
+  * [抽象工厂模式](https://github.com/bboylin/MyNotebook/blob/master/part2/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
+  * [策略模式](https://github.com/bboylin/MyNotebook/blob/master/part2/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
   * 状态模式
   * 责任链模式
   * 解释器模式
@@ -157,15 +157,16 @@
 
 * 读书笔记
     * thinking in java
-        * [chapter1-13](https://github.com/bboylin/MyNotebook/blob/master/part3/java/notes%20of%20thinking%20in%20java1.md)
-        * [chapter14-15](https://github.com/bboylin/MyNotebook/blob/master/part3/java/notes%20of%20thinking%20in%20java2.md)
-        * [chapter16-21](https://github.com/bboylin/MyNotebook/blob/master/part3/java/java3.md)
+        * [chapter1-13](https://github.com/bboylin/MyNotebook/blob/master/part7/thinking%20in%20java%E7%AC%94%E8%AE%B0%E4%B8%8A.md)
+        * [chapter14-15](https://github.com/bboylin/MyNotebook/blob/master/part7/thinking%20in%20java%E7%AC%94%E8%AE%B0%E4%B8%AD.md)
+        * [chapter16-21](https://github.com/bboylin/MyNotebook/blob/master/part7/thinking%20in%20java%E7%AC%94%E8%AE%B0%E4%B8%8B.md)
     * effective java
-        * [chapter 2](https://github.com/bboylin/MyNoteBook/tree/master/part3/java/effective-java2.md)
-        * [chapter 3](https://github.com/bboylin/MyNoteBook/tree/master/part3/java/effective-java3.md)
+        * [chapter 2](https://github.com/bboylin/MyNotebook/blob/master/part7/effective%20java%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%AC%94%E8%AE%B0.md)
+        * [chapter 3](https://github.com/bboylin/MyNotebook/blob/master/part7/effective%20java%E7%AC%AC%E4%B8%89%E7%AB%A0%E7%AC%94%E8%AE%B0.md)
     * android开发进阶：从小工到专家
     * android开发艺术探索
-        * [第一章：activity的生命周期和启动模式](https://github.com/bboylin/MyNoteBook/tree/master/android&designPattern/art/ch1.md)
+        * [第一章：activity的生命周期和启动模式](https://github.com/bboylin/MyNotebook/blob/master/part7/Android%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%AC%94%E8%AE%B0.md)
+        * [第二章：IPC机制](https://github.com/bboylin/MyNotebook/blob/master/part7/Android%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%AC%94%E8%AE%B0.md)
     * 设计模式之禅
     * android源码设计模式解析与实战
     * [CSAPP](https://github.com/bboylin/MyNotebook/blob/master/part6/csapp.md)
@@ -173,7 +174,5 @@
     * 深入理解java虚拟机
     * [程序员的自我修养：链接，装载和库](https://github.com/bboylin/MyNotebook/blob/master/part6/xiuyang.md)
 
-* operating system
-    * [死锁/信号量/管程](https://github.com/bboylin/MyNotebook/blob/master/part6/lock.md)
-
-* network
+* 操作系统
+    * [进程管理](http://bboylin.xyz/2016/12/18/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E4%B9%8B%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86/)
