@@ -150,7 +150,7 @@
 
 * android项目实战
     * [西交Link](http://xjtu.link/)
-    * Gank客户端
+    * [干货营](https://github.com/bboylin/Gank)
     * bilibili客户端
 
 * 面试/笔试
